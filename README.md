@@ -1,6 +1,8 @@
 # About Me:
 Hi there, I am Last Wishh.
 
+![snake gif](https://github.com/neerajj911/neerajj911/blob/output/github-snake-dark.svg)
+
 I’m a Software Engineer and Full Stack Mobile App Developer specializing in Flutter and React Native development, with experience in Node.js and MongoDB for backend systems. I enjoy building scalable, user-friendly applications and continuously exploring new technologies. Currently, I’m expanding my skills in AI/ML and intelligent app development. 🚀 Fun fact: I can make your wish complete.
 
 
